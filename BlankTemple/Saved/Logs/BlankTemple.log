@@ -1154,3 +1154,121 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-11.16.06:484][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.494982
 [2025.07.30-11.16.06:485][ 70]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1327463752
 [2025.07.30-11.16.06:485][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.494982, Update Interval: 307.659546
+[2025.07.30-11.17.52:146][426]LogDerivedDataCache: C:/Users/22496/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.30-11.18.04:905][556]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2025.07.30-11.18.19:576][ 52]LogSlate: Window '版本控制登录' being destroyed
+[2025.07.30-11.18.27:226][373]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.07.30-11.18.27:249][373]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.07.30-11.18.27:250][373]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.30-11.18.27:279][375]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.07.30-11.18.33:141][565]LogContentBrowser: Attempting asset rename: 新建文件夹 -> actor
+[2025.07.30-11.18.33:141][565]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.07.30-11.18.37:212][707]LogSlate: Window '选取父类' being destroyed
+[2025.07.30-11.18.37:224][707]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.30-11.18.37:233][707]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.30-11.18.37:261][709]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.30-11.18.44:508][943]LogContentBrowser: Attempting asset rename: NewBlueprint -> actor1
+[2025.07.30-11.18.44:728][943]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.30-11.18.45:473][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/actor/actor1.actor1
+[2025.07.30-11.18.45:473][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.30-11.18.45:541][982]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-11.18.48:523][ 56]LogSlate: Window 'actor1' being destroyed
+[2025.07.30-11.18.49:621][120]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.30-11.19.01:297][815]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.30-11.19.01:428][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.30-11.19.01:475][818]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.30-11.19.22:104][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.07.30-11.19.23:119][935]LogSlate: Window '保存内容' being destroyed
+[2025.07.30-11.19.23:291][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-11.19.23:334][935]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/actor/actor1] ([2] browsable assets)...
+[2025.07.30-11.19.23:405][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/actor/actor1.actor1]
+[2025.07.30-11.19.23:405][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/actor/actor1]
+[2025.07.30-11.19.23:405][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/actor/actor1" FILE="../../../../../GitHub/Test3/BlankTemple/Content/actor/actor1.uasset" SILENT=true
+[2025.07.30-11.19.23:409][935]LogSavePackage: Moving output files for package: /Game/actor/actor1
+[2025.07.30-11.19.23:409][935]LogSavePackage: Moving '../../../../../GitHub/Test3/BlankTemple/Saved/actor12826CD9D45C8F98908DCBE84B9C33BCC.tmp' to '../../../../../GitHub/Test3/BlankTemple/Content/actor/actor1.uasset'
+[2025.07.30-11.19.23:651][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 360.881 ms
+[2025.07.30-11.19.23:695][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-11.19.23:695][935]LogContentValidation: Enabled validators:
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-11.19.23:696][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-11.19.23:696][935]AssetCheck: /Game/actor/actor1 正在验证资产
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Content: 'E:/Unreal Engine/UE_5.6/Engine/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Interchange/Runtime/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Interchange/Assets/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/Niagara/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/Cascade/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/FX/Cascade/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/UVEditor/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/RigLogic/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/IKRig/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRig/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/2D/Paper2D/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/StateTree/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/RigVM/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/Metasound/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Media/MediaPlate/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/TraceUtilities/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/TraceUtilities/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Fab/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Fab/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/ChaosVD/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.35:065][600]SourceControl: fatal: E:/Unreal Engine/UE_5.6/Engine/Plugins/Bridge/Content: 'E:/Unreal Engine/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'E:/GitHub/Test3'
+[2025.07.30-11.19.43:836][600]LogSlate: Window '提交文件' being destroyed
+[2025.07.30-11.19.44:147][600]LogSourceControl: commit successful: [main 02ec2cf] add actor1
+[2025.07.30-11.19.44:241][600]SourceControl: [main 02ec2cf] add actor1
+[2025.07.30-11.19.44:241][600]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.07.30-11.19.44:241][600]SourceControl:  create mode 100644 BlankTemple/Content/actor/actor1.uasset
+[2025.07.30-11.19.44:264][600]SourceControl: 已提交 [main 02ec2cf] add actor1。
+[2025.07.30-11.21.14:678][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 319.723267
+[2025.07.30-11.21.16:344][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-11.21.16:344][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 321.056335, Update Interval: 359.483643
